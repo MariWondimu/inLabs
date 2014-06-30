@@ -1,0 +1,117 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr {
+    border: 0 none;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+ul{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+	color:#493830;
+}
+.wrap{
+	width:980px;
+	margin:0 auto;
+}
+.splash{
+	position:absolute;
+	margin:20px;
+	display:none;
+}
+.diamonds{
+	position:absolute;	
+}
+.diamonds img{
+	width:231px;
+	height:230px;
+	display:block;
+}
+.yellow{
+	position:absolute;
+	top:119px;
+	left:68px;
+	background: url("../img/sprite.gif") 0px -207px no-repeat;	
+}
+.orange{
+	position:absolute;
+	top:237px;
+	left:213px;
+	background: url("../img/sprite.gif") 0px -439px no-repeat;	
+}
+.black{
+	position:absolute;
+	top:353px;
+	left:360px;
+	background: url("../img/sprite.gif") 0px -671px no-repeat;	
+}
+.lines{
+	position:absolute;
+}
+.lines img{
+	display:block;
+}
+.yellowLine{
+	position:absolute;
+	top:0px;
+	left:-92px;
+	width:239px;
+	height:233px;
+	background: url("../img/sprite.gif") -281px 0px no-repeat;
+}
+.orangeLine{
+	position:absolute;
+	top:408px;
+	left:74px;
+	width:208px;
+	height:245px;
+	background: url("../img/sprite.gif") -281px -422px no-repeat;
+}
+.blackLine{
+	position:absolute;
+	width:194px;
+	height:138px;
+	top:510px;
+	left:537px;
+	background: url("../img/sprite.gif") -281px -232px no-repeat;
+}
+.logoArea{
+		
+}
+.logo{
+	position: absolute;
+	top:300px;
+	right:95px;
+	width:257px;
+	height:205px;
+	background: url("../img/sprite.gif") 0px 0px no-repeat;
+}
+.textArea{
+	position:relative
+}
+.textArea ul li{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	text-align:center;
+}
+.link1{
+	position:absolute;
+	top: 214px;
+	left:146px;
+}
+.link2{
+	position:absolute;
+	top: 309px;
+	left:286px;
+}
+.link3{
+	position:absolute;
+	top: 429px;
+	left:433px;
+}
