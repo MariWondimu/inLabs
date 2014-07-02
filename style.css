@@ -42,13 +42,13 @@ a{
 	position:absolute;
 	top:237px;
 	left:213px;
-	background: url("../img/sprite.gif") 0px -439px no-repeat;	
+	background: url("https://cloud.githubusercontent.com/assets/6075958/3451663/68bd9902-019d-11e4-9e6d-6763ace2836a.gif") 0px -439px no-repeat;	
 }
 .black{
 	position:absolute;
 	top:353px;
 	left:360px;
-	background: url("../img/sprite.gif") 0px -671px no-repeat;	
+	background: url("https://cloud.githubusercontent.com/assets/6075958/3451663/68bd9902-019d-11e4-9e6d-6763ace2836a.gif") 0px -671px no-repeat;	
 }
 .lines{
 	position:absolute;
@@ -62,7 +62,7 @@ a{
 	left:-92px;
 	width:239px;
 	height:233px;
-	background: url("../img/sprite.gif") -281px 0px no-repeat;
+	background: url("https://cloud.githubusercontent.com/assets/6075958/3451663/68bd9902-019d-11e4-9e6d-6763ace2836a.gif") -281px 0px no-repeat;
 }
 .orangeLine{
 	position:absolute;
@@ -70,7 +70,7 @@ a{
 	left:74px;
 	width:208px;
 	height:245px;
-	background: url("../img/sprite.gif") -281px -422px no-repeat;
+	background: url("https://cloud.githubusercontent.com/assets/6075958/3451663/68bd9902-019d-11e4-9e6d-6763ace2836a.gif") -281px -422px no-repeat;
 }
 .blackLine{
 	position:absolute;
@@ -78,7 +78,7 @@ a{
 	height:138px;
 	top:510px;
 	left:537px;
-	background: url("../img/sprite.gif") -281px -232px no-repeat;
+	background: url("https://cloud.githubusercontent.com/assets/6075958/3451663/68bd9902-019d-11e4-9e6d-6763ace2836a.gif") -281px -232px no-repeat;
 }
 .logoArea{
 		
@@ -89,7 +89,7 @@ a{
 	right:95px;
 	width:257px;
 	height:205px;
-	background: url("../img/sprite.gif") 0px 0px no-repeat;
+	background: url("https://cloud.githubusercontent.com/assets/6075958/3451663/68bd9902-019d-11e4-9e6d-6763ace2836a.gif") 0px 0px no-repeat;
 }
 .textArea{
 	position:relative
